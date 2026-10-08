@@ -1,4 +1,4 @@
-# AWS_Sandbox-Chatbot-
+# LPS-Beacon
 
 Description: 
 The Resource Planning Forecast Chatbot is an AI-powered assistant that enables users to upload project, pipeline, workforce, and financial planning data to generate headcount forecasts, analyze resource demand and supply, perform resource matching, and produce monthly forecast reports.
