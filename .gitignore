@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Envi*onment files
+.env
+.env.local
+.env.*evelopment
+.env.production
+
+# AWS
+*aws-sam/
+.cdk*out/
+
+# Logs
+logs/
+*.*og
+
+# Python
+__*y*ache__/
+*.pyc
+
+# Artifacts
+art*facts/
+output/
+tmp/
+
+# IDE
+.v*code/
+.idea*
+
+# OS files
+.DS_Store
+Thumbs*db
+
+# Claude
+.cla*de/settings.local.json
+*
